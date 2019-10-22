@@ -1154,10 +1154,10 @@ span.timer {
 ------------------------*/
 
 .contact-from input {
-    background-color: rgba(0, 0, 0, 0);
+    background-color: rgba(255, 255, 255, 1);
     border: 1px solid #dddddd;
     border-radius: 10px;
-    color: #aaaaaa;
+    color: #000000;
     font-family: "Lato", sans-serif;
     font-size: 14px;
     font-weight: normal;
@@ -1236,13 +1236,13 @@ input.submit:hover {
 .contact-from input::-webkit-input-placeholder {
     /* Chrome */
     
-    color: #aaaaaa;
+    color: #606060;
     opacity: 1;
 }
 .contact-from input::-moz-placeholder {
     /* Firefox 19+ */
     
-    color: #aaaaaa;
+    color: #606060;
     opacity: 1;
 }
 .contact-from textarea::-webkit-input-placeholder {
