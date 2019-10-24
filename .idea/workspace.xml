@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52cafefc-661f-444c-b817-5333d2673eb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/color/color-21.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg-img/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg-img/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg-img/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg-img/app4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg-img/app4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg-img/bg-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg-img/bg-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg-img/bg-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg-img/bg-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg-img/bg-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mobile/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/mobile/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mobile/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/mobile/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mobile/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/mobile/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -61,7 +52,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571780716629</updated>
-      <workItem from="1571780717695" duration="6363000" />
+      <workItem from="1571780717695" duration="7099000" />
+      <workItem from="1571853227982" duration="599000" />
+      <workItem from="1571859350548" duration="601000" />
+      <workItem from="1571936695310" duration="8095000" />
     </task>
     <servers />
   </component>
@@ -73,7 +67,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

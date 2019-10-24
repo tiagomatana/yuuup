@@ -399,7 +399,7 @@
         width: 100%;
     }
     .mobile-menu .mean-nav {
-        background: #1879fd none repeat scroll 0 0;
+        background: #111111 none repeat scroll 0 0;
     }
     .logo img {
         position: relative;
@@ -559,6 +559,9 @@
 /* small mobile :320px. */
 
 @media (max-width: 767px) {
+    .single-price-package {
+        min-height: 0px !important;
+    }
     .container {
         width: 300px
     }
@@ -799,7 +802,7 @@
         width: 100%;
     }
     .mobile-menu .mean-nav {
-        background: #1879fd none repeat scroll 0 0;
+        background: #111111 none repeat scroll 0 0;
     }
     .logo img {
         position: relative;

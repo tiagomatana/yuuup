@@ -248,7 +248,7 @@ i {
 }
 #main-menu {
     left: 0;
-    padding: 30px 0;
+    padding: 20px 0;
     position: absolute;
     right: 0;
     top: 0px;
@@ -913,6 +913,8 @@ p.about-pb {
     border-radius: 5px;
     padding: 60px 0;
     text-align: center;
+    min-height: 650px;
+    max-height: 650px;
 }
 .single-price-package.active {
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.10);
