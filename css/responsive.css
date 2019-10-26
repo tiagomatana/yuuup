@@ -561,6 +561,7 @@
 @media (max-width: 767px) {
     .single-price-package {
         min-height: 0px !important;
+        max-height: 700px !important;
     }
     .container {
         width: 300px
