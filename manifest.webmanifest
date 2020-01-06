@@ -1,0 +1,15 @@
+{
+  "background_color": "black",
+  "description": "Yuuup Rastreamento Veicular",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "appl/icon/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Yuuup",
+  "short_name": "Yuuup",
+  "start_url": "/app.html"
+}
