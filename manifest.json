@@ -1,6 +1,8 @@
 {
   "background_color": "black",
   "description": "Yuuup Rastreamento Veicular",
+  "theme_color": "#000000",
+  "background_color": "#000000",
   "display": "fullscreen",
   "icons": [
     {
